@@ -1,0 +1,97 @@
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\bin\Debug\MySql.Data.dll
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+C:\Users\Ryz Cantonais\Downloads\backup 10102023\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+C:\Users\ebeaujot\Downloads\laboGSB-20231012T060600Z-001\laboGSB\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+C:\Users\ebeaujot\Downloads\laboGSB-20231017T062149Z-001\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\bin\Debug\MySql.Data.dll
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+C:\Users\Ryz Cantonais\Downloads\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+W:\2 ieme année\e\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+W:\2 ieme année\e\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+W:\2 ieme année\e\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+W:\2 ieme année\e\laboGSB\laboGSB\bin\Debug\MySql.Data.dll
+W:\2 ieme année\e\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+W:\2 ieme année\e\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.SuggestedBindingRedirects.cache
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+W:\2 ieme année\e\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
+C:\Users\Lény\Desktop\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+C:\Users\Lény\Desktop\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+C:\Users\Lény\Desktop\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+C:\Users\Lény\Desktop\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\Lény\Desktop\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+C:\Users\Lény\Desktop\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\bin\Debug\laboGSB.exe.config
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\bin\Debug\laboGSB.exe
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\bin\Debug\laboGSB.pdb
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\bin\Debug\MySql.Data.xml
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.AssemblyReference.cache
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.Form1.resources
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.Properties.Resources.resources
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.GenerateResource.cache
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CoreCompileInputs.cache
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.csproj.CopyComplete
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.exe
+C:\Users\Lény\Desktop\Projet C# 1er année\Visual Studio\laboGSB\laboGSB\obj\Debug\laboGSB.pdb
